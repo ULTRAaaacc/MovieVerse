@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MovieVerse/static/css/main.334bdeb1.css",
-    "main.js": "/MovieVerse/static/js/main.872bd264.js",
+    "main.js": "/MovieVerse/static/js/main.a3192a89.js",
     "index.html": "/MovieVerse/index.html",
     "static/media/search.svg": "/MovieVerse/static/media/search.416eaa75883e378a8ef27fd015d6658f.svg",
     "main.334bdeb1.css.map": "/MovieVerse/static/css/main.334bdeb1.css.map",
-    "main.872bd264.js.map": "/MovieVerse/static/js/main.872bd264.js.map"
+    "main.a3192a89.js.map": "/MovieVerse/static/js/main.a3192a89.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.872bd264.js"
+    "static/js/main.a3192a89.js"
   ]
 }
