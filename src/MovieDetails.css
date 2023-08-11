@@ -1,0 +1,30 @@
+/* MovieDetails.css */
+
+.movie-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  
+  .movie-poster img {
+    width: 300px;
+    height: auto;
+  }
+  
+  .movie-info {
+    margin-left: 2rem;
+    max-width: 50%;
+    color: #f0f0f0;
+  }
+  
+  .movie-info h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .movie-info p {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+  
